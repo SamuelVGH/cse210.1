@@ -83,7 +83,7 @@ class Program
         Address customerAddress = new Address("123 Main St", "Anytown", "CA", "USA");
         Customer customer = new Customer("John Doe", customerAddress);
 
-        Product product1 = new Product("Product 1", "P1", 10.99, 2);
+        Product product1 = new Product("Product 1", "P1", 10.98, 2);
         Product product2 = new Product("Product 2", "P2", 5.99, 3);
 
         Order order = new Order(customer);

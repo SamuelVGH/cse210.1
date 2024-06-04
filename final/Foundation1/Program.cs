@@ -55,7 +55,7 @@ class Program
         video2.AddComment("ProGamer99", "Thanks for the tips, they really helped!");
         videos.Add(video2);
 
-        Video video3 = new Video("Brawl Stars New Update Review", "Player3", 150);
+        Video video3 = new Video("Brawl Stars New Update Revieeew", "Player3", 150);
         video3.AddComment("CasualPlayer23", "I'm not sure about the new update, what do you guys think?");
         video3.AddComment("Elprimo2000", "This update is awesome, loving the new features!");
         videos.Add(video3);
